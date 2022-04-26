@@ -1,6 +1,7 @@
 # Frontend
-Live link: https://rubylena.github.io/fury-frontend/
-The main frontend repository. This is the main entry point to the frontend libraries and packages. Below is the frontend task give by @mark for this week.
+#Live link: https://rubylena.github.io/fury-frontend/
+
+-The main frontend repository. This is the main entry point to the frontend libraries and packages. Below is the frontend task give by @mark for this week.
 
 ![image](https://user-images.githubusercontent.com/17856665/83970797-92094880-a8cf-11ea-99c9-e5cb4202ac8b.png)
 
